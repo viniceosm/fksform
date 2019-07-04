@@ -6,7 +6,7 @@ clone and `npm i`
 
 ### Google email you will connect
 
-main.js
+./main.js
 
 ```javascript
 const EMAIL_GOOGLE = 'jupiterapple@gmail.com';
@@ -14,13 +14,15 @@ const EMAIL_GOOGLE = 'jupiterapple@gmail.com';
 
 ### Password
 
-my-password.js
+./my-password.js
 
 Your password account
 
 ### Image and instagram/twitter
 
 Change the last 2 parameters
+
+./main.js
 
 ```javascript
 await preencheForm(page, browser, i, 'lavenderhair.png', 'lavenderhairs);
